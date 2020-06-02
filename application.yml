@@ -6,7 +6,7 @@ server:
 spring:
   jmx:
     enabled: false
-    default-domain: SmartAdvertisementManagerSystem
+    default-domain: SpringcloudTest
   output:
     ansi:
       enabled: always
